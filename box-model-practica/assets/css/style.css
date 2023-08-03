@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+.caja-rosa {
+    background-color: pink;
+    width: 33%;
+    height: 100px;
+    padding-top: 500px;
+}
+.caja-cafe {
+    background-color: brown;
+    width: 50%;
+    height: 100%;
+    margin-left: 25%;
+    margin-top: -50px;
+}
+.caja-roja{
+    background-color: red;
+    width: 67%;
+    height: 250px;
+    margin-left: 33%;
+    margin-top: -600px;
+}
+.caja-gris{
+    background-color: rgb(201, 201, 201);
+    width: 67%;
+    height: 400px;
+    margin-left: 33%;
+}
+.caja-verde{
+    background-color: green;
+    width: 33%;
+    height: 50px;
+    margin-top: -50px;
+}
+h1{
+    padding-top: 200px;
+    padding-left: 45%;
+}
+img {
+    padding-top: 125px;
+    padding-left: 50%;
+}
